@@ -28,9 +28,9 @@ This is including search by multiple criteria in the same time like search by de
 - Use PHP >= 8.x  for the development
 - Do not use any database or any full text search engines
 - If you make any assumptions, mention them clearly in the readme file
-- Write full test using any test suite like PHPUnit for php, Whatever you prefer
-- Implement [travis](https://travis-ci.org) or [scrutinizer-ci](https://scrutinizer-ci.com) or any other CI tool for the project, **Add the build status badges to your project README file**
-- Use [codeclimate](https://codeclimate.com) or any other alternative to estimate the code quality **and add it's badge to your project README file**
+- (Optional BOUNUS) Write full test using any test suite like PHPUnit for php, Whatever you prefer
+- (Optional BOUNUS) Implement [travis](https://travis-ci.org) or [scrutinizer-ci](https://scrutinizer-ci.com) or any other CI tool for the project, **Add the build status badges to your project README file**
+- (Optional BOUNUS) Use [codeclimate](https://codeclimate.com) or any other alternative to estimate the code quality **and add it's badge to your project README file**
 
 ## What we are looking for
 
